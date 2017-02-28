@@ -1,10 +1,14 @@
-Hangperson Project 1.0
+Hangperson Project 1.1
 Author: Thomas Johnson
 Date: 2/27/17
 
-
+To play the game, just run the game.py file with the gameParameters.py module.
+-----------------------------------------------------------------------------------------------------
 Entry 1:
 	After some Googling online, I have decided to implement the game Hangperson. Everyone's favorite PC alternative to that wretched game Hangman /s.
 
 Entry 2:
 	It's late, but I have finished with the main body of code. Now comes sprucing it up and working on the GUI.
+
+Entry 3:
+	Finished this iteration of the game, updating this to 1.1 now. The game is fully functional, and plays fairly well. There are 6 total solutions, but that is easily configurable  with just a few changes. To the game parameters module. 
